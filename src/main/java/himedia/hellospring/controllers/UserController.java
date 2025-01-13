@@ -28,5 +28,4 @@ public class UserController {
 	public String joinsuccess() {
 		return "<h1>JOIN SUCCESS</h1>";
 	}
-
 }
