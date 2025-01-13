@@ -16,6 +16,7 @@
            http://www.springframework.org/schema/mvc/spring-mvc.xsd
            http://www.springframework.org/schema/aop 
            http://www.springframework.org/schema/aop/spring-aop.xsd">
+           
 	<!-- 어노테이션 기능 활성화 -->
 	<context:annotation-config />
 	<context:component-scan base-package="himedia.hellospring.controllers">
